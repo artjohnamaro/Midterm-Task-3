@@ -3,6 +3,7 @@ This portfolio showcases the development of an interactive Data Science Salary &
 
 ## Steps:
 1. Using the Worksheet on Uncleaned DS Jobs and the transform tables
+   
 a. Sal By Role
 
 b. Sal By State
